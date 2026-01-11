@@ -1,0 +1,23 @@
+{
+  "name": "vibereview",
+  "description": "Multi-agent iterative code review with ensemble analysis and regression detection",
+  "version": "1.0.0",
+  "author": {
+    "name": "Gonzalles2009"
+  },
+  "repository": "https://github.com/Gonzalles2009/vibeforge",
+  "license": "MIT",
+  "keywords": [
+    "code-review",
+    "multi-agent",
+    "quality",
+    "refactoring",
+    "regression-detection",
+    "ensemble",
+    "scoring"
+  ],
+  "commands": "commands/",
+  "agents": "agents/",
+  "skills": "skills/",
+  "hooks": "hooks/"
+}

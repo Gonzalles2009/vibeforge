@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node (if any scripts)
+node_modules/
+
+# Local plugin data
+plugins/*/.vibereview/sessions/
+
+# Local settings
+.claude/settings.local.json
+*.local.md

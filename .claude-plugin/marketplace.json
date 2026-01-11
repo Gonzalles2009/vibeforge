@@ -1,0 +1,27 @@
+{
+  "name": "vibeforge",
+  "owner": {
+    "name": "Gonzalles2009",
+    "url": "https://github.com/Gonzalles2009"
+  },
+  "plugins": [
+    {
+      "name": "vibereview",
+      "source": "./plugins/vibereview",
+      "description": "Multi-agent iterative code review with ensemble analysis and regression detection. Runs 5 specialized agents until all score >= 9/10.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Gonzalles2009"
+      },
+      "repository": "https://github.com/Gonzalles2009/vibeforge",
+      "license": "MIT",
+      "keywords": [
+        "code-review",
+        "multi-agent",
+        "quality",
+        "refactoring",
+        "regression-detection"
+      ]
+    }
+  ]
+}
